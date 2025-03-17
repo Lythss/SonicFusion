@@ -1,6 +1,9 @@
 ![SonicFusion Diagram](Diagram.png)
 
-### Sonic Fusion is a dual-architecture data pipeline that delivers **real-time** and **batch** analytics for the music industry. By unifying streaming platforms and social media sources, it enables labels, artists, and marketers to gain data-driven insights into listener trends, track performance, and audience engagement---all in a scalable, containerized solution.
+<p align="center">
+  Sonic Fusion is a dual-architecture data pipeline that delivers real-time and batch analytics for the music industry. By unifying streaming platforms and social media sources, it enables labels, artists, and marketers to gain data-driven insights into listener trends, track performance, and audience engagement—all in a scalable, containerized solution.
+</p>
+
 ------------
 
 Key Features
